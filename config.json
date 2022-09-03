@@ -1,7 +1,7 @@
 {
   "url": "https://wandering-antlion-8e7.notion.site/18d108a0b3724b29aae9c9cba409171c?v=f7743d584dec453082506703f0192c16",
   "theme": "pure-ejs",
-  "previewBrowser": "/usr/bin/chromium",
+  "previewBrowser": ".exepath[+] [Directory [; ...]]",
   "autoSlug": true
 }
 
