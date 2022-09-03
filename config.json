@@ -4,4 +4,4 @@
   "previewBrowser": "/usr/bin/chromium",
   "autoSlug": true
 }
-notablog generate .
+
